@@ -1,5 +1,5 @@
-# Encrypt-PDFs
-Python File, which allows you to encrypt a PDFs files.
+# Encrypt-PDF
+Python File, which allows you to encrypt a PDF files.
 
 PyPDF2 library required. (installation: "pip install PyPDF2")
 
